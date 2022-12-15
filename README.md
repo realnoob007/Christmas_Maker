@@ -12,7 +12,7 @@ Just download the executable file you need and run it on your device
 
 Potential Problems
 1. Identified as virus or danger to your computer
-   ![image](https://user-images.githubusercontent.com/87698941/207767157-b4d20ac6-a593-4640-b4c4-e9d624ab6f42.png)
+
 
 
       for Windows:
