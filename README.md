@@ -65,7 +65,7 @@ Potential Problems
       
       1. 打开设置
       
-      <img width="665" alt="65f6bac73cc4a0c4c770f8c596c2f9f" src="https://user-images.githubusercontent.com/87698941/207809509-d3c9c2d6-2e6c-460b-a9ca-604f9092be8c.png">
+     
 
       2. 打开安全性与隐私，进入通用窗口
       
