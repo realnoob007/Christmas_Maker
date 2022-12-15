@@ -31,3 +31,16 @@ Potential Problems
       2. 点击仍要运行
    
       for Mac:
+      
+      <img width="257" alt="662597449fd7c4b509e8a8799201cad" src="https://user-images.githubusercontent.com/87698941/207809371-fa3efaf3-c208-48ef-9b47-0cb0f15af14c.png">
+      
+      1. 打开设置
+      
+      <img width="665" alt="65f6bac73cc4a0c4c770f8c596c2f9f" src="https://user-images.githubusercontent.com/87698941/207809509-d3c9c2d6-2e6c-460b-a9ca-604f9092be8c.png">
+
+      2. 打开安全性与隐私，进入通用窗口
+      
+      <img width="661" alt="e292c74d2a65ff0d828d1b278ccad5b" src="https://user-images.githubusercontent.com/87698941/207809711-59b6cb06-810e-4c7e-8c96-2466bcf0bbd1.png">
+
+      3. 最后点击下方的"仍要打开"按钮，即可运行！
+
