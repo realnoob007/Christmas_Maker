@@ -16,7 +16,9 @@ Just download the executable file you need and run it on your device
     
         or open the release on the right side of the site "Christmas Maker for windows"
   
-    For Mac devices, please download Christmas_Maker.app.zip file
+    For Mac devices, please download Christmas_Maker.app.zip file and unzip it. Then directly run it or
+    
+    put it in your application folder
     
         or open the release on the right side of the site "Christmas Maker for Mac"
 
