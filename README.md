@@ -12,9 +12,13 @@ How to setup?
 
 Just download the executable file you need and run it on your device
 
-    For Windows devices, please download .exe file
+    For Windows devices, please download Christmas_Maker.exe file
+    
+        or open the release on the right side of the site "xxx for windows"
   
-    For Mac devices, please download .dmg file
+    For Mac devices, please download Christmas_Maker.app.zip file
+    
+        or open the release on the right side of the site "xxx for Mac"
 
 Potential Problems
 1. Identified as virus or danger to your computer
