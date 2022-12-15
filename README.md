@@ -1,6 +1,12 @@
 # Christmas_Maker
 A small application for both windows and mac users to have fun with Christmas
 
+Distributor: Charles & Andy
+
+Windows Testor: Charles
+
+MacOS Testor: Andy
+
 ---------------------------------------------------------------------------------
 How to setup?
 
